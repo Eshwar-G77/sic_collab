@@ -34,3 +34,4 @@ except KeyboardInterrupt:
     led.off()
     buzzer.off()
     pass # Exits the program
+#This is comment was added at end to test
